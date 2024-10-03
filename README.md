@@ -1,4 +1,3 @@
-# Intro-to-github
-Hi, 
-This is Hima Swarupa. 
-I am a first year student currently pursuing Bachelor of Technolgy in Computer Science and Engineering at University of Petroleum and Energy Studies.
+Hello! 
+I'm Hima Swarupa Padala currently studying in my second year. I have a keen interest in programming and data science. 
+I enjoy exploring new technologies and am committed to developing my skills in this dynamic field.
